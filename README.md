@@ -5,37 +5,41 @@
   <img src="https://komarev.com/ghpvc/?username=hassan-obaya&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-obaya" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hassan-obaya&theme=flat&column=6" alt="Trophies" />
-  </a>
-</p>
+
+---
+### 🎓 Education
+| Degree | Institution | Duration |
+|--------|-------------|----------|
+| **B.Sc. in Artificial Intelligence** | Kafr El-Sheikh University | *2020 – 2025* |
+| **Applied Data Science Lab** | WorldQuant University *(Online Credential)* | *2024 – 2025* |
 
 ---
 
-🎓 **Education**  
-- B.Sc. in Artificial Intelligence, Kafr El-Sheikh University (2020–2025)  
-- Applied Data Science Lab – WorldQuant University (2024–2025)
+### 💼 Professional Experience
+| Role | Organization | Period |
+|------|--------------|--------|
+| **Student Mentor – Machine Learning** | 🎓 Microsoft Student Club | *Feb 2025 – May 2025* |
+| **Machine Learning Engineer Intern** | 🏢 Cellula Technologies, Egypt | *Feb 2025 – Mar 2025* |
+| **Machine Learning Scientist Intern** | 🧠 NeuronetiX, Cairo | *Aug 2024 – Oct 2024* |
 
-💼 **Professional Experience**
-- **ML Engineer Intern** @ Cellula Technologies  
-- **ML Scientist Intern** @ NeuronetiX & Shai AI  
-- **Student Mentor** @ Microsoft Student Club
+---
 
-🧠 **Projects**
-- Service Desk Ticket Classifier (CNN - PyTorch)  
-- Hotel Booking Cancellations (F1-score: 92%)  
-- Uber Fare Estimation (R²: 0.80)  
-- Sentiment Analysis of Call Recordings (NLP pipeline)
+### 🧠 Selected Projects
+- 🔍 **Service Desk Ticket Classifier** – Text classification using CNN (PyTorch) – *Accuracy: 80.8%*
+- 🏨 **Hotel Booking Cancellations** – Classification using ML models – *F1-score: 92%*
+- 🚕 **Uber Fare Estimation** – Random Forest Regressor – *R²: 0.80*
+- 🎧 **Customer Support Calls** – Audio-to-text pipeline with Sentiment Analysis & Named Entity Recognition (NER)
 
-📜 **Certifications**
-- Machine Learning Scientist – DataCamp  
-- NLP with Python – DataCamp  
-- Machine Learning – Shai AI  
-- Power BI – DataCamp
+---
 
-📫 **Reach Me At**  
-**Email:** hassanobaya@gmail.com
+### 📜 Certifications
+| Certification | Provider | Date |
+|---------------|----------|------|
+| **Llama Fundamentals** | DataCamp | *Jun 2025* |
+| **Machine Learning Scientist** | DataCamp | *May 2025* |
+| **Natural Language Processing in Python** | DataCamp | *May 2025* |
+| **Data Scientist in Python** | DataCamp | *Apr 2025* |
+| **Power BI Fundamentals** | DataCamp | *May 2024* |
 
 ---
 
@@ -76,3 +80,5 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-obaya&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+
+
