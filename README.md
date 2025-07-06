@@ -1,111 +1,78 @@
-# Hassan Abdelfattah Obaia
+<h1 align="center">Hi 👋, I'm Hassan Obaia</h1>
+<h3 align="center">Data Scientist & Machine Learning Engineer</h3>
 
-**Data Scientist & Machine Learning Scientist**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hassan-obaya&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-obaya" />
+</p>
 
-📍 Milan, Italy 
-📍 Alexandria, Egypt  
-📧 hassanobaya@gmail.com 
-📞 +393204079413
-📞 +20 155 012 3866  
-[LinkedIn](https://www.linkedin.com/in/hassan-obaya) | [Kaggle](https://www.kaggle.com/hassan-obaya) | [DataCamp](https://www.datacamp.com/profile/hassan-obaya)  
-
----
-
-## 🔎 About Me
-Aspiring Machine Learning Engineer and Data Scientist with hands‑on experience in developing end‑to‑end AI solutions through real‑world projects, industry internships, and mentorship roles. Skilled in supervised & unsupervised learning, deep learning, and advanced statistical analysis, with a proven ability to translate data into actionable insights and scalable deployments.
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hassan-obaya&theme=flat&column=6" alt="Trophies" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+🎓 **Education**  
+- B.Sc. in Artificial Intelligence, Kafr El-Sheikh University (2020–2025)  
+- Applied Data Science Lab – WorldQuant University (2024–2025)
 
-- **Programming & Scripting:** Python, SQL  
-- **Machine Learning:** Regression, Classification, Ensemble Methods, Clustering (K‑Means, PCA), Hyperparameter Tuning, Model Evaluation (Accuracy, Precision, Recall, F1‑Score)  
-- **Deep Learning & NLP:** PyTorch, TensorFlow, Transformers (Hugging Face)  
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI  
-- **Deployment & DevOps:** Docker, Azure, Git, CI/CD  
-- **Databases:** MySQL, PostgreSQL  
-- **Tools & Libraries:** scikit‑learn, XGBoost, SpaCy, NLTK, SpeechRecognition  
+💼 **Professional Experience**
+- **ML Engineer Intern** @ Cellula Technologies  
+- **ML Scientist Intern** @ NeuronetiX & Shai AI  
+- **Student Mentor** @ Microsoft Student Club
 
----
+🧠 **Projects**
+- Service Desk Ticket Classifier (CNN - PyTorch)  
+- Hotel Booking Cancellations (F1-score: 92%)  
+- Uber Fare Estimation (R²: 0.80)  
+- Sentiment Analysis of Call Recordings (NLP pipeline)
 
-## 💼 Professional Experience
+📜 **Certifications**
+- Machine Learning Scientist – DataCamp  
+- NLP with Python – DataCamp  
+- Machine Learning – Shai AI  
+- Power BI – DataCamp
 
-### Cellula Technologies, Egypt  
-**Machine Learning Engineer Intern**  
-_Feb 2025 – Mar 2025_  
-- Built, trained, and deployed ML models for production workflows, improving predictive performance.  
-- Collaborated with cross‑functional teams to integrate CI/CD for model delivery.  
-
-### NeuronetiX, Cairo  
-**Machine Learning Scientist Intern**  
-_Aug 2024 – Oct 2024_  
-- Applied Random Forest, XGBoost, and Ridge Regression to real‑world datasets, achieving up to 20% reduction in training times.  
-- Designed computer vision pipelines (YOLOv8) with 92% detection accuracy for fish species classification.  
-
-### Shai AI (Remote)  
-**Machine Learning Scientist Intern**  
-_Aug 2024 – Oct 2024_  
-- Implemented unsupervised models (K‑Means, PCA) and classical ML algorithms (Decision Trees, KNN) for exploratory analysis.  
-- Documented experiments and supported productionization of research prototypes.  
+📫 **Reach Me At**  
+**Email:** hassanobaya@gmail.com
 
 ---
 
-## 🚀 Selected Projects
-
-- **Customer Support Call Analysis** (Jun 2025)  
-  Pipeline for audio‑to‑text, sentiment & NER, improving routing accuracy.  
-
-- **Service Desk Ticket Classification** (May 2025)  
-  Text CNN in PyTorch with 80.8% accuracy for multi‑class support ticket prediction.  
-
-- **Antarctic Penguin Species Clustering** (May 2025)  
-  K‑Means clustering with biological insight visualization.  
-
-- **Soccer League Hypothesis Testing** (Apr 2025)  
-  Statistical analysis of goal distributions using Wilcoxon‑Mann‑Whitney test.  
-
-- **Uber Fare Prediction** (Mar 2025)  
-  Random Forest Regressor (R² = 0.80) on 500k+ records with feature engineering.  
-
-- **Hotel Booking Cancellations Prediction** (Feb 2025)  
-  ML pipeline (Logistic Regression, Random Forest, XGBoost) achieving 92% F1‑score.  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/hassan-obaya" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/hassanobaya" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/hassanobaya00" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-## 🎓 Education
-
-**B.Sc. in Artificial Intelligence**  
-Faculty of Artificial Intelligence, Kafr El‑Sheikh, Egypt  
-_Sep 2020 – Jul 2025_  
-
-**Applied Data Science Lab**  
-WorldQuant University (Credly‑certified)  
-_Nov 2024 – Jan 2025_  
-
----
-
-## 🏅 Certifications
-
-- Llama Fundamentals — DataCamp (Jun 2025)  
-- Machine Learning Scientist — DataCamp (May 2025)  
-- NLP in Python — DataCamp (May 2025)  
-- Data Scientist with Python — DataCamp (Apr 2025)  
-- Associate Data Scientist — DataCamp (Apr 2025)  
-- Machine Learning Certification — Shai AI (Oct 2024)  
-- Power BI Fundamentals — DataCamp (May 2024)  
-- Data Analyst with Python — DataCamp (Apr 2024)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
 
 ---
 
-## 🤝 Extracurricular
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-obaya&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-- **Hackathon Participant** — NeuronetiX Hackathon, Cairo (Jan 2025)  
-- **Student Mentor** — Microsoft Student Club, Kafr El‑Sheikh (Feb 2025 – May 2025)  
-
----
-
-## 🌐 Languages
-
-- **Arabic:** Native  
-- **English:** C1 (Fluent)  
-- **Italian:** A2 (Basic)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-obaya&show_icons=true&locale=en" alt="GitHub Stats" /></p>
