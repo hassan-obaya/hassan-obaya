@@ -109,7 +109,3 @@ _Nov 2024 – Jan 2025_
 - **Arabic:** Native  
 - **English:** C1 (Fluent)  
 - **Italian:** A2 (Basic)  
-
----
-
-*Feel free to explore my full CV [here](Hassan Obaia CV.docx).  
